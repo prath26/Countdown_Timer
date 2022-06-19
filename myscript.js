@@ -1,7 +1,7 @@
 var demo = document.getElementById("demo");
 
 // Set the date we're counting down to
-var endTime = new Date("June 8, 2022 09:00:00").getTime();
+var endTime = new Date("Jan 1, 2023 00:00:00").getTime();
 		
 // Update the count down every 1 second
 setInterval(function() {
